@@ -1,0 +1,2 @@
+# stockmanage
+stock manager
